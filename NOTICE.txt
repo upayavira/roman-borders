@@ -1,0 +1,4 @@
+Roman Border Generator
+Copyright 2015 Upayavira
+
+Licensed under the Apache License 2.0

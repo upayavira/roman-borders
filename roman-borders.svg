@@ -1,0 +1,138 @@
+<svg width="1000" height="1414">
+<line x1="20" y1="20" x2="80" y2="20" style="stroke:black;stroke-width:2" transform="" />
+<line x1="20" y1="20" x2="20" y2="80" style="stroke:black;stroke-width:2" transform="" />
+<line x1="80" y1="20" x2="80" y2="60" style="stroke:black;stroke-width:2" transform="" />
+<line x1="40" y1="40" x2="40" y2="60" style="stroke:black;stroke-width:2" transform="" />
+<line x1="40" y1="40" x2="60" y2="40" style="stroke:black;stroke-width:2" transform="" />
+<line x1="60" y1="40" x2="60" y2="60" style="stroke:black;stroke-width:2" transform="" />
+<line x1="40" y1="60" x2="100" y2="60" style="stroke:black;stroke-width:2" transform="" />
+<line x1="20" y1="80" x2="100" y2="80" style="stroke:black;stroke-width:2" transform="" />
+<line x1="20" y1="100" x2="60" y2="100" style="stroke:black;stroke-width:2" transform="" />
+<line x1="40" y1="120" x2="60" y2="120" style="stroke:black;stroke-width:2" transform="" />
+<line x1="20" y1="100" x2="20" y2="120" style="stroke:black;stroke-width:2" transform="" />
+<line x1="60" y1="80" x2="60" y2="120" style="stroke:black;stroke-width:2" transform="" />
+<line x1="80" y1="80" x2="80" y2="120" style="stroke:black;stroke-width:2" transform="" />
+<line x1="80" y1="100" x2="100" y2="100" style="stroke:black;stroke-width:2" transform="" />
+<line x1="80" y1="120" x2="120" y2="120" style="stroke:black;stroke-width:2" transform="" />
+<line x1="100" y1="20" x2="100" y2="100" style="stroke:black;stroke-width:2" transform="" />
+<line x1="120" y1="40" x2="120" y2="120" style="stroke:black;stroke-width:2" transform="" />
+<line x1="100" y1="20" x2="120" y2="20" style="stroke:black;stroke-width:2" transform="" />
+<line x1="20" y1="20" x2="80" y2="20" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="20" y1="20" x2="20" y2="80" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="80" y1="20" x2="80" y2="60" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="40" y1="40" x2="40" y2="60" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="40" y1="40" x2="60" y2="40" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="60" y1="40" x2="60" y2="60" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="40" y1="60" x2="100" y2="60" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="20" y1="80" x2="100" y2="80" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="20" y1="100" x2="60" y2="100" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="40" y1="120" x2="60" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="20" y1="100" x2="20" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="60" y1="80" x2="60" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="80" y1="80" x2="80" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="80" y1="100" x2="100" y2="100" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="80" y1="120" x2="120" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="100" y1="20" x2="100" y2="100" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="120" y1="40" x2="120" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="100" y1="20" x2="120" y2="20" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="20" y1="20" x2="80" y2="20" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="20" y1="20" x2="20" y2="80" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="80" y1="20" x2="80" y2="60" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="40" y1="40" x2="40" y2="60" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="40" y1="40" x2="60" y2="40" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="60" y1="40" x2="60" y2="60" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="40" y1="60" x2="100" y2="60" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="20" y1="80" x2="100" y2="80" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="20" y1="100" x2="60" y2="100" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="40" y1="120" x2="60" y2="120" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="20" y1="100" x2="20" y2="120" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="60" y1="80" x2="60" y2="120" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="80" y1="80" x2="80" y2="120" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="80" y1="100" x2="100" y2="100" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="80" y1="120" x2="120" y2="120" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="100" y1="20" x2="100" y2="100" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="120" y1="40" x2="120" y2="120" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="100" y1="20" x2="120" y2="20" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(270, 70.0, 70.0)   " />
+<line x1="20" y1="20" x2="80" y2="20" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="20" y1="20" x2="20" y2="80" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="80" y1="20" x2="80" y2="60" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="40" y1="40" x2="40" y2="60" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="40" y1="40" x2="60" y2="40" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="60" y1="40" x2="60" y2="60" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="40" y1="60" x2="100" y2="60" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="20" y1="80" x2="100" y2="80" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="20" y1="100" x2="60" y2="100" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="40" y1="120" x2="60" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="20" y1="100" x2="20" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="60" y1="80" x2="60" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="80" y1="80" x2="80" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="80" y1="100" x2="100" y2="100" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="80" y1="120" x2="120" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="100" y1="20" x2="100" y2="100" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="120" y1="40" x2="120" y2="120" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="100" y1="20" x2="120" y2="20" style="stroke:black;stroke-width:2" transform="translate(860, 1274) rotate(180, 70.0, 70.0)   " />
+<line x1="20" y1="120" x2="20" y2="667" style="stroke:black;stroke-width:2" transform="" />
+<line x1="40" y1="120" x2="40" y2="652" style="stroke:black;stroke-width:2" transform="" />
+<line x1="60" y1="120" x2="60" y2="652" style="stroke:black;stroke-width:2" transform="" />
+<line x1="80" y1="120" x2="80" y2="667" style="stroke:black;stroke-width:2" transform="" />
+<path transform="" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 33.680805733 669.412295169 A 40 40 0 0 0 20.0 667.0"/>
+<path transform="" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 50.0 655.038475773 A 60 60 0 0 0 40.5212085995 650.618442753"/>
+<path transform="" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 20.0 747.0 A 40 40 0 0 0 50.6417777248 681.288495613"/>
+<path transform="" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 40.5212085995 763.381557247 A 60 60 0 0 0 65.9626665871 668.432743419"/>
+<path transform="" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 66.319194267 744.587704831 A 40 40 0 0 0 80.0 747.0"/>
+<path transform="" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 50.0 758.961524227 A 60 60 0 0 0 59.4787914005 763.381557247"/>
+<path transform="" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 80.0 667.0 A 40 40 0 0 0 49.3582222752 732.711504387"/>
+<path transform="" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 59.4787914005 650.618442753 A 60 60 0 0 0 34.0373334129 745.567256581"/>
+<line x1="20" y1="1294" x2="20" y2="747" style="stroke:black;stroke-width:2" transform="" />
+<line x1="40" y1="1294" x2="40" y2="762" style="stroke:black;stroke-width:2" transform="" />
+<line x1="60" y1="1294" x2="60" y2="762" style="stroke:black;stroke-width:2" transform="" />
+<line x1="80" y1="1294" x2="80" y2="747" style="stroke:black;stroke-width:2" transform="" />
+<line x1="20" y1="120" x2="20" y2="667" style="stroke:black;stroke-width:2" transform="translate(900, 0)" />
+<line x1="40" y1="120" x2="40" y2="652" style="stroke:black;stroke-width:2" transform="translate(900, 0)" />
+<line x1="60" y1="120" x2="60" y2="652" style="stroke:black;stroke-width:2" transform="translate(900, 0)" />
+<line x1="80" y1="120" x2="80" y2="667" style="stroke:black;stroke-width:2" transform="translate(900, 0)" />
+<path transform="translate(900, 0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 33.680805733 669.412295169 A 40 40 0 0 0 20.0 667.0"/>
+<path transform="translate(900, 0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 50.0 655.038475773 A 60 60 0 0 0 40.5212085995 650.618442753"/>
+<path transform="translate(900, 0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 20.0 747.0 A 40 40 0 0 0 50.6417777248 681.288495613"/>
+<path transform="translate(900, 0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 40.5212085995 763.381557247 A 60 60 0 0 0 65.9626665871 668.432743419"/>
+<path transform="translate(900, 0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 66.319194267 744.587704831 A 40 40 0 0 0 80.0 747.0"/>
+<path transform="translate(900, 0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 50.0 758.961524227 A 60 60 0 0 0 59.4787914005 763.381557247"/>
+<path transform="translate(900, 0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 80.0 667.0 A 40 40 0 0 0 49.3582222752 732.711504387"/>
+<path transform="translate(900, 0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 59.4787914005 650.618442753 A 60 60 0 0 0 34.0373334129 745.567256581"/>
+<line x1="20" y1="1294" x2="20" y2="747" style="stroke:black;stroke-width:2" transform="translate(900, 0)" />
+<line x1="40" y1="1294" x2="40" y2="762" style="stroke:black;stroke-width:2" transform="translate(900, 0)" />
+<line x1="60" y1="1294" x2="60" y2="762" style="stroke:black;stroke-width:2" transform="translate(900, 0)" />
+<line x1="80" y1="1294" x2="80" y2="747" style="stroke:black;stroke-width:2" transform="translate(900, 0)" />
+<line x1="20" y1="120" x2="20" y2="460" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="40" y1="120" x2="40" y2="445" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="60" y1="120" x2="60" y2="445" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="80" y1="120" x2="80" y2="460" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<path transform="translate(860, 0) rotate(90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 33.680805733 462.412295169 A 40 40 0 0 0 20.0 460.0"/>
+<path transform="translate(860, 0) rotate(90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 50.0 448.038475773 A 60 60 0 0 0 40.5212085995 443.618442753"/>
+<path transform="translate(860, 0) rotate(90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 20.0 540.0 A 40 40 0 0 0 50.6417777248 474.288495613"/>
+<path transform="translate(860, 0) rotate(90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 40.5212085995 556.381557247 A 60 60 0 0 0 65.9626665871 461.432743419"/>
+<path transform="translate(860, 0) rotate(90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 66.319194267 537.587704831 A 40 40 0 0 0 80.0 540.0"/>
+<path transform="translate(860, 0) rotate(90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 50.0 551.961524227 A 60 60 0 0 0 59.4787914005 556.381557247"/>
+<path transform="translate(860, 0) rotate(90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 80.0 460.0 A 40 40 0 0 0 49.3582222752 525.711504387"/>
+<path transform="translate(860, 0) rotate(90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 59.4787914005 443.618442753 A 60 60 0 0 0 34.0373334129 538.567256581"/>
+<line x1="20" y1="880" x2="20" y2="540" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="40" y1="880" x2="40" y2="555" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="60" y1="880" x2="60" y2="555" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="80" y1="880" x2="80" y2="540" style="stroke:black;stroke-width:2" transform="translate(860, 0) rotate(90, 70.0, 70.0)" />
+<line x1="20" y1="120" x2="20" y2="460" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" />
+<line x1="40" y1="120" x2="40" y2="445" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" />
+<line x1="60" y1="120" x2="60" y2="445" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" />
+<line x1="80" y1="120" x2="80" y2="460" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" />
+<path transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 33.680805733 462.412295169 A 40 40 0 0 0 20.0 460.0"/>
+<path transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 50.0 448.038475773 A 60 60 0 0 0 40.5212085995 443.618442753"/>
+<path transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 20.0 540.0 A 40 40 0 0 0 50.6417777248 474.288495613"/>
+<path transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 40.5212085995 556.381557247 A 60 60 0 0 0 65.9626665871 461.432743419"/>
+<path transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 66.319194267 537.587704831 A 40 40 0 0 0 80.0 540.0"/>
+<path transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 50.0 551.961524227 A 60 60 0 0 0 59.4787914005 556.381557247"/>
+<path transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 80.0 460.0 A 40 40 0 0 0 49.3582222752 525.711504387"/>
+<path transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" id="arc1" fill="none" stroke="black" stroke-width="2" d="M 59.4787914005 443.618442753 A 60 60 0 0 0 34.0373334129 538.567256581"/>
+<line x1="20" y1="880" x2="20" y2="540" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" />
+<line x1="40" y1="880" x2="40" y2="555" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" />
+<line x1="60" y1="880" x2="60" y2="555" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" />
+<line x1="80" y1="880" x2="80" y2="540" style="stroke:black;stroke-width:2" transform="translate(0, 1274) rotate(-90, 70.0, 70.0)" />
+</svg>
